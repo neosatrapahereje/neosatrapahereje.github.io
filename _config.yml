@@ -20,7 +20,7 @@
 
 title: Carlos Cancino-Chacón's Blog
 email: carlos.cancino@ofai.at
-description: >- A blog about the intersection of machine learning, music, computer science and mathematics.
+description: A blog about the intersection of machine learning, music, computer science and mathematics.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: carloscancino
